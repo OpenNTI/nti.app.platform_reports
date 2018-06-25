@@ -1,6 +1,6 @@
-==================
+==========================
  nti.app.platform_reports
-==================
+==========================
 
 .. image:: https://travis-ci.org/NextThought/nti.app.platform_reports.svg?branch=master
     :target: https://travis-ci.org/NextThought/nti.app.platform_reports
